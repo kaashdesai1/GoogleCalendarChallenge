@@ -1,3 +1,8 @@
+## Example Image:
+
+![calendarimage](https://user-images.githubusercontent.com/46506637/153934234-79c0d7a7-88db-4b7f-9c4f-e9462c04cf59.PNG)
+
+## Directions 
 
 If you didn't install node_modules, then go to root folder, and run npm install or yarn install.
 
